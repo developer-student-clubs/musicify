@@ -94,4 +94,16 @@ git push -u origin <your_branch_name>
 
 <p align="left"><img src="https://user-images.githubusercontent.com/84856389/193466574-8a0d5108-f30a-40a9-be49-e78143548960.jpg"  width = 40%></p>
 
-For further details, click on [CONTRIBUTING.md](https://github.com/R-Ayush777/npmBox/blob/master/CONTRIBUTING.md)
+For further details, click on [CONTRIBUTING.md](https://github.com/PRINCE-DHAMECHA/musicify/blob/main/CONTRIBUTING.md)
+
+<h2 align= "left"><b>Code of Conduct</b></h2>
+
+We follow certain guidelines in order to maintain this repository. Please find our [code of conduct](https://github.com/PRINCE-DHAMECHA/musicify/blob/main/CODE_OF_CONDUCT.md) and read it carefully.
+
+
+<h1 align= "left"><b>Who are the makers of musicify? 🤓</b></h1>
+
+|<img src="https://avatars.githubusercontent.com/u/82492391?v=4">|<img src="https://avatars.githubusercontent.com/u/84856389?v=4">|<img src="https://avatars3.githubusercontent.com/u/54989142?v=4">|
+|----------------------------|--------|----------------------------|
+|<p align="center">[Prince Dhamecha](https://github.com/PRINCE-DHAMECHA)</p>|<p align="center">[Dharmesh Poriya](https://github.com/Dharmesh-Poriya07)</p>|<p align="center">[Parshwa Mehta](https://github.com/parshwa-mehta)</p>|
+
