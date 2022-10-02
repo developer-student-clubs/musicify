@@ -103,7 +103,7 @@ We follow certain guidelines in order to maintain this repository. Please find o
 
 <h1 align= "left"><b>Who are the makers of musicify? 🤓</b></h1>
 
-|<img src="https://avatars.githubusercontent.com/u/82492391?v=4">|<img src="https://avatars.githubusercontent.com/u/84856389?v=4">|<img src="https://avatars3.githubusercontent.com/u/54989142?v=4">|
+|<img src="https://avatars.githubusercontent.com/u/82492391?v=4">|<img src="https://avatars.githubusercontent.com/u/84856389?v=4">|<img src="https://avatars.githubusercontent.com/u/86891879?v=4">|
 |----------------------------|--------|----------------------------|
-|<p align="center">[Prince Dhamecha](https://github.com/PRINCE-DHAMECHA)</p>|<p align="center">[Dharmesh Poriya](https://github.com/Dharmesh-Poriya07)</p>|<p align="center">[Parshwa Mehta](https://github.com/parshwa-mehta)</p>|
+|<p align="center">[Prince Dhamecha](https://github.com/PRINCE-DHAMECHA)</p>|<p align="center">[Dharmesh Poriya](https://github.com/Dharmesh-Poriya07)</p>|<p align="center">[Parshwa Mehta](https://github.com/parshwa0510)</p>|
 
