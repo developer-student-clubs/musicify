@@ -1,5 +1,5 @@
 <!-- <h1 align="center">musicify 🎶</h1> -->
-<p align="center"><img src="https://user-images.githubusercontent.com/84856389/193463079-e6bec56d-3361-4600-9630-7aaa981d2ae0.jpg"  width = 40%></p>
+<p align="center"><img src="https://musicifyy.netlify.app/assets/logo2.eb0d9f94.jpg"  width = 40%></p>
 
 
 <div align="center">
