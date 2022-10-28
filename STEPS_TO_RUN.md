@@ -5,7 +5,7 @@
 ```
 VITE_SHAZAM_CORE_RAPID_API_KEY = API_Key
 ```
-3. run below command in terminal
+3. save all changes and run below command in terminal
   ```
   npm install
   npm run dev
