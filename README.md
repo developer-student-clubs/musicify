@@ -31,7 +31,7 @@
 git clone https://github.com/<your_user_name>/musicify.git
 ```
 
-**3.** Navigate to the project directory :file_folder: .
+**3.** Navigate to the project directory and follow [this steps](https://github.com/developer-student-clubs/musicify/blob/main/STEPS_TO_RUN.md) for run the musicify application.
 
 ```
 cd musicify
