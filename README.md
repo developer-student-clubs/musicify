@@ -40,7 +40,7 @@ cd musicify
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/PRINCE-DHAMECHA/musicify.git 
+git remote add upstream https://github.com/developer-student-clubs/musicify.git 
 ```
 
 **5.** Check the remotes for this repository.
